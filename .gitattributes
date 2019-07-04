@@ -1,1 +1,2 @@
-Materials/** filter=lfs diff=lfs merge=lfs -text
+CabinInTheWoods/Content/CabinInTheWoods-SpecificAssets/Materials/** filter=lfs diff=lfs merge=lfs -text
+CabinInTheWoods/Content/CabinInTheWoods-SpecificAssets/Textures/** filter=lfs diff=lfs merge=lfs -text
