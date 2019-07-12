@@ -1,3 +1,6 @@
 CabinInTheWoods/Content/CabinInTheWoods-SpecificAssets/Materials/** filter=lfs diff=lfs merge=lfs -text
 CabinInTheWoods/Content/CabinInTheWoods-SpecificAssets/Textures/** filter=lfs diff=lfs merge=lfs -text
 CabinInTheWoods/Content/CabinInTheWoods-SpecificAssets/Levels/** filter=lfs diff=lfs merge=lfs -text
+CabinInTheWoods/Content/CabinInTheWoods-SpecificAssets/Blueprints/** filter=lfs diff=lfs merge=lfs -text
+CabinInTheWoods/Content/CabinInTheWoods-SpecificAssets/Meshes/** filter=lfs diff=lfs merge=lfs -text
+CabinInTheWoods/Content/CabinInTheWoods-SpecificAssets/Sequences/** filter=lfs diff=lfs merge=lfs -text
